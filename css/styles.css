@@ -4,16 +4,11 @@ body {
 
 /* Containers */
 
-.container-wrapper {
-    
-}
-
 .container-wrapper--red {
     background-color: #ff6305;
     color: white;
 }
 
-.alert-container {}
 
 .callout-container {
     height: 100vh;
@@ -38,6 +33,7 @@ body {
     height: 100%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
+    
 }
 
 .content-container {
@@ -45,9 +41,6 @@ body {
     padding-bottom: 75px;
 }
 
-.quotes-container {}
-
-.features-container {}
 
 /* Navbar */
 
